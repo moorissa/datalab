@@ -8,4 +8,4 @@ To learn more about me, check out my site [moorissa.com](http://moorissa.com/)
 
 You can find the source code for all my projects at:
 {% include icon-github.html username="moorissa" %} /
-[minima](https://github.com/moorissa/datalab)
+[datalab](https://github.com/moorissa/datalab)
